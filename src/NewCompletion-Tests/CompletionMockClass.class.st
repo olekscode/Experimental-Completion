@@ -13,7 +13,7 @@ Class {
 	#pools : [
 		'VTermOutputStyles'
 	],
-	#category : #'NewCompletion-Mock'
+	#category : #'NewCompletion-Tests'
 }
 
 { #category : #'as yet unclassified' }

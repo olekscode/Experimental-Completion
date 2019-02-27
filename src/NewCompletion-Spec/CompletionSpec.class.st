@@ -13,7 +13,7 @@ Class {
 		'resultList',
 		'classList'
 	],
-	#category : #NewCompletionSpec
+	#category : #'NewCompletion-Spec'
 }
 
 { #category : #specs }

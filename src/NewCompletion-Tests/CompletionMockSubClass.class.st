@@ -1,7 +1,7 @@
 Class {
 	#name : #CompletionMockSubClass,
 	#superclass : #CompletionMockClass,
-	#category : #'NewCompletion-Mock'
+	#category : #'NewCompletion-Tests'
 }
 
 { #category : #'as yet unclassified' }
