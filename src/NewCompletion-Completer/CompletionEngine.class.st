@@ -9,7 +9,7 @@ Class {
 		'sorter',
 		'class'
 	],
-	#category : #'NewCompletion-Model'
+	#category : #'NewCompletion-Completer'
 }
 
 { #category : #completion }

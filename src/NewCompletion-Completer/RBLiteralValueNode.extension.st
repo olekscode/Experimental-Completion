@@ -1,6 +1,6 @@
 Extension { #name : #RBLiteralValueNode }
 
-{ #category : #'*NewCompletion' }
+{ #category : #'*NewCompletion-Completer' }
 RBLiteralValueNode >> completionToken [
 	^ self value asString
 ]

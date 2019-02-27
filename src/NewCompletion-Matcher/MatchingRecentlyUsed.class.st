@@ -8,7 +8,7 @@ Class {
 		'messages',
 		'globals'
 	],
-	#category : #'NewCompletion-Model'
+	#category : #'NewCompletion-Matcher'
 }
 
 { #category : #caching }

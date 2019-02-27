@@ -1,6 +1,6 @@
 Extension { #name : #Class }
 
-{ #category : #'*NewCompletion' }
+{ #category : #'*NewCompletion-Completer' }
 Class >> commonSuperclass: aClass [
 
 	^ self allSuperclasses detect: [ :class | (aClass allSuperclasses includes: class) ]

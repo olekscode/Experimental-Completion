@@ -3,11 +3,11 @@ I'm a little visitor
 "
 Class {
 	#name : #MatchedNodeProducer,
-	#superclass : #Object,
+	#superclass : #RBProgramNodeVisitor,
 	#instVars : [
 		'currentClass'
 	],
-	#category : #'NewCompletion-Model'
+	#category : #'NewCompletion-Matcher'
 }
 
 { #category : #accessing }

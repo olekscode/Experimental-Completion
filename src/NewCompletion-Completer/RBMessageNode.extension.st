@@ -1,6 +1,6 @@
 Extension { #name : #RBMessageNode }
 
-{ #category : #'*NewCompletion' }
+{ #category : #'*NewCompletion-Completer' }
 RBMessageNode >> completionToken [
 
 	^ self selector

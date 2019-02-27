@@ -4,7 +4,7 @@ Aplhabetical sorting.
 Class {
 	#name : #AlphabeticSorter,
 	#superclass : #Sorter,
-	#category : #'NewCompletion-Strategy'
+	#category : #'NewCompletion-Sorter'
 }
 
 { #category : #accessing }

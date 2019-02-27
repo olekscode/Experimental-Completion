@@ -7,7 +7,7 @@ Class {
 	#classInstVars : [
 		'noFilterMock'
 	],
-	#category : #'NewCompletion-Mock'
+	#category : #'NewCompletion-Tests'
 }
 
 { #category : #'test mock' }

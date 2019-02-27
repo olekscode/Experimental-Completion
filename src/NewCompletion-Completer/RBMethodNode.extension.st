@@ -1,6 +1,6 @@
 Extension { #name : #RBMethodNode }
 
-{ #category : #'*NewCompletion' }
+{ #category : #'*NewCompletion-Completer' }
 RBMethodNode >> completionToken [
 	^ self selector asString
 ]

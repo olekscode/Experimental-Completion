@@ -7,7 +7,7 @@ Class {
 	#instVars : [
 		'matcher'
 	],
-	#category : #'NewCompletion-Strategy'
+	#category : #'NewCompletion-Sorter'
 }
 
 { #category : #accessing }

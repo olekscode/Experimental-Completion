@@ -1,6 +1,6 @@
 Extension { #name : #RBVariableNode }
 
-{ #category : #'*NewCompletion' }
+{ #category : #'*NewCompletion-Completer' }
 RBVariableNode >> completionToken [
 
 	^ self name

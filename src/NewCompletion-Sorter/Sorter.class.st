@@ -6,7 +6,7 @@ Sorter allSubclasses collect: #kind an OrderedCollection('' 'alphabetical' '' ''
 Class {
 	#name : #Sorter,
 	#superclass : #Object,
-	#category : #'NewCompletion-Strategy'
+	#category : #'NewCompletion-Sorter'
 }
 
 { #category : #description }

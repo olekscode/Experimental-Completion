@@ -18,7 +18,7 @@ Class {
 		'selectors',
 		'context'
 	],
-	#category : #'NewCompletion-Model'
+	#category : #'NewCompletion-Completer'
 }
 
 { #category : #'as yet unclassified' }
